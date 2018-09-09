@@ -108,3 +108,20 @@ body{
   line-height: 1.5;
   width: 60%;
 }
+
+.contact{
+  margin-top: 50px;
+}
+
+.contact address{
+  text-transform: uppercase;
+  color: #143f52;
+  font-size: 26px;
+  font-style: normal;
+  text-align: center;
+  font-weight: bold;
+}
+
+.map{
+  margin-top: 40px;
+}
